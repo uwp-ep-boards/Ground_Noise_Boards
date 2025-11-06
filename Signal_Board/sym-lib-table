@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CD74HC4046AE")(type "KiCad")(uri "/home/diogenes/Storage/EP_Noise_Boards/Ground_Noise_Boards/Ground_Noise_Boards/Extra_Symbols/CD74HC4046AE.kicad_sym")(options "")(descr ""))
+)
