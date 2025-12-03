@@ -6,10 +6,10 @@ Boards designed by Johnathan Trachte for labs by Dr. Hal Evensen, under guidance
 
 ## Revision History
 ### Signal Board
-0.0.2
-    - Remove grounding from digital logic outputs
-    - Fix LM317LZ silkscreen orientation
-    - Swap LM317LZ programming resistor values to allow minimum current draw under no load
-    - Modify resistor footprint for horizontal mounting
-    - Adjust various power routing as pours instead of tracks
+0.0.2 \
+    - Remove grounding from digital logic outputs \
+    - Fix LM317LZ silkscreen orientation \
+    - Swap LM317LZ programming resistor values to allow minimum current draw under no load \
+    - Modify resistor footprint for horizontal mounting \
+    - Adjust various power routing as pours instead of tracks \
 
